@@ -265,7 +265,7 @@ nav a:hover {
 }
 /* PAGE4 RESPONSIVENESSSSSS */
 
-@media(max-width:600px){
+@media(max-width:500px){
     #page4{
         justify-content: left;
         padding-top: 50%;
@@ -419,7 +419,7 @@ nav a:hover {
 
 /* project page-responsive-ness */
 
-@media(max-width:600px){
+@media(max-width:500px){
     #pr-page{
         justify-content: center;
         align-items: center;
